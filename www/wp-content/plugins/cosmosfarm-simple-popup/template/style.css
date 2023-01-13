@@ -1,0 +1,17 @@
+@charset "utf-8";
+/**
+ * @author https://www.cosmosfarm.com/
+ */
+
+.cosmosfarm-simple-popup-layout { position: fixed; z-index: 999999; background-color: white; }
+.cosmosfarm-simple-popup-layout p:last-child { margin: 0; }
+.cosmosfarm-simple-popup-layout img { max-width: 100%; }
+.cosmosfarm-simple-popup-layout .cosmosfarm-simple-popup { position: relative; height: 100%; }
+.cosmosfarm-simple-popup-layout .popup-content { overflow: hidden; }
+.cosmosfarm-simple-popup-layout .popup-footer { overflow: hidden; width: 100%; }
+.cosmosfarm-simple-popup-layout .popup-footer .popup-not-showing { float: left; padding: 5px; font-size: 12px; cursor: pointer; }
+.cosmosfarm-simple-popup-layout .popup-footer .popup-close { float: right; padding: 5px; font-size: 12px; cursor: pointer; }
+
+@media screen and (max-width: 600px) {
+	.cosmosfarm-simple-popup-layout { left: 0 !important; width: 100% !important; }
+}

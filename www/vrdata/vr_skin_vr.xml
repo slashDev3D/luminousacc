@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.19-pr16">
+
+    
+  <!-- Spot Style - Default Point Spot Style1 -->
+
+
+  <style name="IconDefaultPointSpotStyle1"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint0.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle1"
+         onout="onoutIconDefaultPointSpotStyle1"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle1">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle1">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+    
+  <!-- Spot Style - Default Point Spot Style2 -->
+
+
+  <style name="IconDefaultPointSpotStyle2"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint10.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle2"
+         onout="onoutIconDefaultPointSpotStyle2"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle2">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle2">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style3 -->
+
+
+  <style name="IconDefaultPointSpotStyle3"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint11.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle3"
+         onout="onoutIconDefaultPointSpotStyle3"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle3">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle3">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style4 -->
+
+
+  <style name="IconDefaultPointSpotStyle4"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint12.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle4"
+         onout="onoutIconDefaultPointSpotStyle4"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle4">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle4">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style5 -->
+
+
+  <style name="IconDefaultPointSpotStyle5"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint13.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle5"
+         onout="onoutIconDefaultPointSpotStyle5"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle5">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle5">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style6 -->
+
+
+  <style name="IconDefaultPointSpotStyle6"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint14.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle6"
+         onout="onoutIconDefaultPointSpotStyle6"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle6">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle6">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style7 -->
+
+
+  <style name="IconDefaultPointSpotStyle7"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint15.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle7"
+         onout="onoutIconDefaultPointSpotStyle7"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle7">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle7">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style8 -->
+
+
+  <style name="IconDefaultPointSpotStyle8"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint16.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle8"
+         onout="onoutIconDefaultPointSpotStyle8"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle8">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle8">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style9 -->
+
+
+  <style name="IconDefaultPointSpotStyle9"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint17.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle9"
+         onout="onoutIconDefaultPointSpotStyle9"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle9">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle9">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style10 -->
+
+
+  <style name="IconDefaultPointSpotStyle10"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint18.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle10"
+         onout="onoutIconDefaultPointSpotStyle10"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle10">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle10">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style11 -->
+
+
+  <style name="IconDefaultPointSpotStyle11"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint19.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle11"
+         onout="onoutIconDefaultPointSpotStyle11"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle11">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle11">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style12 -->
+
+
+  <style name="IconDefaultPointSpotStyle12"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint20.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle12"
+         onout="onoutIconDefaultPointSpotStyle12"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle12">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle12">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+</krpano>

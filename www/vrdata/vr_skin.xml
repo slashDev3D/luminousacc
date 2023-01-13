@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.19-pr16">
+
+    
+  <!-- Spot Style - Default Point Spot Style1 -->
+
+
+  <style name="IconDefaultPointSpotStyle1"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint0.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle1"
+         onout="onoutIconDefaultPointSpotStyle1"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle1">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle1">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+    
+  <!-- Spot Style - Default Point Spot Style2 -->
+
+
+  <style name="IconDefaultPointSpotStyle2"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint10.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle2"
+         onout="onoutIconDefaultPointSpotStyle2"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle2">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle2">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style3 -->
+
+
+  <style name="IconDefaultPointSpotStyle3"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint11.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle3"
+         onout="onoutIconDefaultPointSpotStyle3"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle3">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle3">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style4 -->
+
+
+  <style name="IconDefaultPointSpotStyle4"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint12.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle4"
+         onout="onoutIconDefaultPointSpotStyle4"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle4">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle4">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style5 -->
+
+
+  <style name="IconDefaultPointSpotStyle5"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint13.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle5"
+         onout="onoutIconDefaultPointSpotStyle5"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle5">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle5">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style6 -->
+
+
+  <style name="IconDefaultPointSpotStyle6"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint14.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle6"
+         onout="onoutIconDefaultPointSpotStyle6"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle6">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle6">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style7 -->
+
+
+  <style name="IconDefaultPointSpotStyle7"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint15.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle7"
+         onout="onoutIconDefaultPointSpotStyle7"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle7">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle7">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style8 -->
+
+
+  <style name="IconDefaultPointSpotStyle8"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint16.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle8"
+         onout="onoutIconDefaultPointSpotStyle8"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle8">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle8">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style9 -->
+
+
+  <style name="IconDefaultPointSpotStyle9"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint17.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle9"
+         onout="onoutIconDefaultPointSpotStyle9"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle9">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle9">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style10 -->
+
+
+  <style name="IconDefaultPointSpotStyle10"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint18.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle10"
+         onout="onoutIconDefaultPointSpotStyle10"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle10">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle10">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style11 -->
+
+
+  <style name="IconDefaultPointSpotStyle11"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint19.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle11"
+         onout="onoutIconDefaultPointSpotStyle11"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle11">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle11">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style12 -->
+
+
+  <style name="IconDefaultPointSpotStyle12"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint20.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle12"
+         onout="onoutIconDefaultPointSpotStyle12"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle12">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle12">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+<!-- ********** -->
+<!-- Easy HTML Lightbox Plugin -->
+<!-- id : easyhtmllightbox -->
+<!-- ********** -->
+
+<plugin name="easy_html_lightbox" url="%FIRSTXML%/graphics/easyhtmllightbox/easy_html_lightbox.js" keep="true" devices="html5" include_reset="false"  include_jquery="false" 
+	theme="light" 
+	background_color="#1e1e1e"
+	background_alpha="0.40000000000000002"
+/>
+
+
+
+
+<action name="kolorboxjsready_easyhtmllightbox"></action>
+<!-- ********** -->
+<!-- Super Button  -->
+<!-- id : Super_button_15 -->
+<!-- ********** -->
+<!-- Super Button v 1.7 Copyright Chiocchetti Maurizio Panotourplugin.com - 2020 -->
+
+
+
+<action name="Super_button_15swap" >
+</action>
+
+<include url="%FIRSTXML%/graphics/superbutton.1.7/core_superbutton.xml" />
+
+<events name="Super_button_15stascale"
+keep="true"
+onresize="Super_button_15respo();"
+/>
+
+<events name="Super_button_15sta"
+keep="true"
+onxmlcomplete="stst();"
+/>
+
+<action name="stst">
+if(get(copy_sb17),
+,
+showlog();
+trace('SUPERBUTTON PLUGIN - ALERT : Please activate the checkbox in at least one of the Superbotton plugins installed (the last option of the plugin setting)' );
+);
+
+  </action>
+
+
+
+<action name="Super_button_15respo">
+
+    <!--set(Super_button_15stageSize, stagewidth);
+    set(Super_button_15myscale, calc(stagewidth / 1000));
+    clamp(Super_button_15myscale, 0.4,1);
+    set(layer[Super_button_15sbutton].scale, get(Super_button_15myscale));-->
+  </action>
+
+
+
+<action name="Super_button_15swap_back" >
+
+           set(layer[Super_button_15sbutton].url, '%FIRSTXML%/graphics/superbutton.1.7/_44256.png');
+
+</action>
+
+
+
+  <layer name="Super_button_15sbutton"
+         keep="true"
+         url="%FIRSTXML%/graphics/superbutton.1.7/_44256.png"
+          devices="desktop|tablet|mobile"
+          tag=""
+
+         align.tablet="topleft"
+         x.tablet="10"
+         y.tablet="10"
+
+          align.mobile="topleft"
+          x.mobile="10"
+          y.mobile="10"
+
+         align.desktop="topleft"
+         x.desktop="20"
+         y.desktop="20"
+
+
+         zorder="2"
+         visible="false"
+         autoalpha="true"
+
+
+         alpha="0"
+
+
+         enabled="true"
+         onloaded=""
+         onhover=""
+
+
+
+        tooltip="Super_button_15tooltip"
+         onclick=""
+          onout="Super_button_15onout();Super_button_15swap_back();hideTooltip();"
+          onover="Super_button_15onover();Super_button_15swap();"
+
+         onup="Super_button_15onup();"
+         ondown="Super_button_15ondown();"
+
+          handcursor="false"
+
+
+
+         height="250"
+         width="250"
+
+
+         height.mobile="100"
+         width.mobile="100"
+
+         height.tablet="100"
+         width.tablet="100"
+
+         />
+
+
+<action name="Super_button_15OnClick">
+  if (Super_button_15state,
+    set(Super_button_15state, false);
+
+        set(layer[Super_button_15sbutton].url, '%FIRSTXML%/graphics/superbutton.1.7/_44256.png');
+        
+             set(layer[Super_button_15sbutton].tooltip, Super_button_15tooltip);
+   ,
+    set(Super_button_15state, true);
+
+
+     set(layer[Super_button_15sbutton].url, '%FIRSTXML%/graphics/superbutton.1.7/');
+     
+          set(layer[Super_button_15sbutton].tooltip, Super_button_15tooltipalt);
+  );
+</action>
+
+
+
+
+
+
+<action name="Super_button_15onover">
+
+tween(layer[Super_button_15sbutton].scale,1,0.5);
+
+
+  </action>
+
+
+<action name="Super_button_15onout">
+  tween(layer[Super_button_15sbutton].scale,1,0.5);
+
+  </action>
+
+
+<action name="Super_button_15ondown">
+
+  </action>
+
+
+<action name="Super_button_15onup">
+
+  </action>
+
+  <events name="Super_button_15events"
+    onTourStart="showSuper_button_15();"
+    hidetourcontrols="hideSuper_button_15();"
+    showtourcontrols="showSuper_button_15();"
+
+    keep="true" />
+
+
+<action name="hideSuper_button_15">
+
+set(layer[Super_button_15sbutton].alpha, 0);
+
+</action>
+
+  <action name="showSuper_button_15">
+    if(copy_sb17, set(display_Super_button_15, false);
+    if(tour_displaycontrols,
+
+    set(display_Super_button_15, true);
+    );
+    if (display_Super_button_15,
+
+       set(layer[Super_button_15sbutton].alpha, 1);
+    ,
+      hideSuper_button_15();
+    ); 
+);
+  </action>
+
+
+
+
+
+
+
+
+
+<!-- ********** -->
+<!-- 포스터 -->
+<!-- id : Super_button_151 -->
+<!-- ********** -->
+<!-- Super Button v 1.7 Copyright Chiocchetti Maurizio Panotourplugin.com - 2020 -->
+
+
+
+<action name="Super_button_151swap" >
+           set(layer[Super_button_151sbutton].url, '%FIRSTXML%/graphics/superbutton.1.71/_498845068949345_hover.png');
+</action>
+
+<include url="%FIRSTXML%/graphics/superbutton.1.71/core_superbutton.xml" />
+
+<events name="Super_button_151stascale"
+keep="true"
+onresize="Super_button_151respo();"
+/>
+
+<events name="Super_button_151sta"
+keep="true"
+onxmlcomplete="stst();"
+/>
+
+<action name="stst">
+if(get(copy_sb17),
+,
+showlog();
+trace('SUPERBUTTON PLUGIN - ALERT : Please activate the checkbox in at least one of the Superbotton plugins installed (the last option of the plugin setting)' );
+);
+
+  </action>
+
+
+
+<action name="Super_button_151respo">
+
+    <!--set(Super_button_151stageSize, stagewidth);
+    set(Super_button_151myscale, calc(stagewidth / 1000));
+    clamp(Super_button_151myscale, 0.4,1);
+    set(layer[Super_button_151sbutton].scale, get(Super_button_151myscale));-->
+  </action>
+
+
+
+<action name="Super_button_151swap_back" >
+
+           set(layer[Super_button_151sbutton].url, '%FIRSTXML%/graphics/superbutton.1.71/_498845068949345.png');
+
+</action>
+
+
+
+  <layer name="Super_button_151sbutton"
+         keep="true"
+         url="%FIRSTXML%/graphics/superbutton.1.71/_498845068949345.png"
+          devices="desktop|tablet|mobile"
+          tag=""
+
+         align.tablet="bottom"
+         x.tablet="135"
+         y.tablet="15"
+
+          align.mobile="bottom"
+          x.mobile="135"
+          y.mobile="15"
+
+         align.desktop="bottomright"
+         x.desktop="20"
+         y.desktop="20"
+
+
+         zorder="3"
+         visible="false"
+         autoalpha="true"
+
+
+         alpha="0"
+
+
+         enabled="true"
+         onloaded=""
+         onhover=""
+
+
+
+        tooltip="Super_button_151tooltip"
+         onclick="Super_button_151actions_onclick();"
+          onout="Super_button_151onout();Super_button_151swap_back();hideTooltip();"
+          onover="Super_button_151onover();Super_button_151swap();"
+
+         onup="Super_button_151onup();"
+         ondown="Super_button_151ondown();"
+
+         handcursor="true"
+
+
+
+         height="66"
+         width="150"
+
+
+         height.mobile="35"
+         width.mobile="80"
+
+         height.tablet="35"
+         width.tablet="80"
+
+         />
+
+
+<action name="Super_button_151OnClick">
+  if (Super_button_151state,
+    set(Super_button_151state, false);
+
+        set(layer[Super_button_151sbutton].url, '%FIRSTXML%/graphics/superbutton.1.71/_498845068949345.png');
+        
+             set(layer[Super_button_151sbutton].tooltip, Super_button_151tooltip);
+   ,
+    set(Super_button_151state, true);
+
+
+     set(layer[Super_button_151sbutton].url, '%FIRSTXML%/graphics/superbutton.1.71/_498845068949345_hover.png');
+     Super_button_151actions_onclick();
+          set(layer[Super_button_151sbutton].tooltip, Super_button_151tooltipalt);
+  );
+</action>
+
+
+  <action name="Super_button_151actions_onclick">
+
+
+open_url('Super_button_151onclick103281easyhtmllightbox|easyhtmllightbox|open_urlurl','90%','90%','Super_button_151onclick103281easyhtmllightbox|easyhtmllightbox|open_urltitle','','layer[]',true,'','','','');
+
+  </action>
+
+
+
+
+<action name="Super_button_151onover">
+
+tween(layer[Super_button_151sbutton].scale,1,0.5);
+
+
+  </action>
+
+
+<action name="Super_button_151onout">
+  tween(layer[Super_button_151sbutton].scale,1,0.5);
+
+  </action>
+
+
+<action name="Super_button_151ondown">
+
+  </action>
+
+
+<action name="Super_button_151onup">
+
+  </action>
+
+  <events name="Super_button_151events"
+    onTourStart="showSuper_button_151();"
+    hidetourcontrols="hideSuper_button_151();"
+    showtourcontrols="showSuper_button_151();"
+
+    keep="true" />
+
+
+<action name="hideSuper_button_151">
+
+set(layer[Super_button_151sbutton].alpha, 0);
+
+</action>
+
+  <action name="showSuper_button_151">
+    if(copy_sb17, set(display_Super_button_151, false);
+    if(tour_displaycontrols,
+
+    set(display_Super_button_151, true);
+    );
+    if (display_Super_button_151,
+
+       set(layer[Super_button_151sbutton].alpha, 1);
+    ,
+      hideSuper_button_151();
+    ); 
+);
+  </action>
+
+
+
+
+
+
+
+
+
+<!-- ********** -->
+<!-- 전시구성 -->
+<!-- id : Super_button_152 -->
+<!-- ********** -->
+<!-- Super Button v 1.7 Copyright Chiocchetti Maurizio Panotourplugin.com - 2020 -->
+
+
+
+<action name="Super_button_152swap" >
+           set(layer[Super_button_152sbutton].url, '%FIRSTXML%/graphics/superbutton.1.72/_498844439649457_fixed_2.png');
+</action>
+
+<include url="%FIRSTXML%/graphics/superbutton.1.72/core_superbutton.xml" />
+
+<events name="Super_button_152stascale"
+keep="true"
+onresize="Super_button_152respo();"
+/>
+
+<events name="Super_button_152sta"
+keep="true"
+onxmlcomplete="stst();"
+/>
+
+<action name="stst">
+if(get(copy_sb17),
+,
+showlog();
+trace('SUPERBUTTON PLUGIN - ALERT : Please activate the checkbox in at least one of the Superbotton plugins installed (the last option of the plugin setting)' );
+);
+
+  </action>
+
+
+
+<action name="Super_button_152respo">
+
+    <!--set(Super_button_152stageSize, stagewidth);
+    set(Super_button_152myscale, calc(stagewidth / 1000));
+    clamp(Super_button_152myscale, 0.4,1);
+    set(layer[Super_button_152sbutton].scale, get(Super_button_152myscale));-->
+  </action>
+
+
+
+<action name="Super_button_152swap_back" >
+
+           set(layer[Super_button_152sbutton].url, '%FIRSTXML%/graphics/superbutton.1.72/_498844439649457_fixed.png');
+
+</action>
+
+
+
+  <layer name="Super_button_152sbutton"
+         keep="true"
+         url="%FIRSTXML%/graphics/superbutton.1.72/_498844439649457_fixed.png"
+          devices="desktop|tablet|mobile"
+          tag=""
+
+         align.tablet="bottom"
+         x.tablet="0"
+         y.tablet="15"
+
+          align.mobile="bottom"
+          x.mobile="0"
+          y.mobile="15"
+
+         align.desktop="bottomright"
+         x.desktop="190"
+         y.desktop="20"
+
+
+         zorder="4"
+         visible="false"
+         autoalpha="true"
+
+
+         alpha="0"
+
+
+         enabled="true"
+         onloaded=""
+         onhover=""
+
+
+
+        tooltip="Super_button_152tooltip"
+         onclick="Super_button_152actions_onclick();"
+          onout="Super_button_152onout();Super_button_152swap_back();hideTooltip();"
+          onover="Super_button_152onover();Super_button_152swap();"
+
+         onup="Super_button_152onup();"
+         ondown="Super_button_152ondown();"
+
+         handcursor="true"
+
+
+
+         height="66"
+         width="150"
+
+
+         height.mobile="35"
+         width.mobile="80"
+
+         height.tablet="35"
+         width.tablet="80"
+
+         />
+
+
+<action name="Super_button_152OnClick">
+  if (Super_button_152state,
+    set(Super_button_152state, false);
+
+        set(layer[Super_button_152sbutton].url, '%FIRSTXML%/graphics/superbutton.1.72/_498844439649457_fixed.png');
+        
+             set(layer[Super_button_152sbutton].tooltip, Super_button_152tooltip);
+   ,
+    set(Super_button_152state, true);
+
+
+     set(layer[Super_button_152sbutton].url, '%FIRSTXML%/graphics/superbutton.1.72/_498844439649457_fixed_2.png');
+     Super_button_152actions_onclick();
+          set(layer[Super_button_152sbutton].tooltip, Super_button_152tooltipalt);
+  );
+</action>
+
+
+  <action name="Super_button_152actions_onclick">
+
+
+open_url('Super_button_152onclick104839easyhtmllightbox|easyhtmllightbox|open_urlurl','90%','90%','Super_button_152onclick104839easyhtmllightbox|easyhtmllightbox|open_urltitle','','layer[]',true,'','','','');
+
+  </action>
+
+
+
+
+<action name="Super_button_152onover">
+
+tween(layer[Super_button_152sbutton].scale,1,0.5);
+
+
+  </action>
+
+
+<action name="Super_button_152onout">
+  tween(layer[Super_button_152sbutton].scale,1,0.5);
+
+  </action>
+
+
+<action name="Super_button_152ondown">
+
+  </action>
+
+
+<action name="Super_button_152onup">
+
+  </action>
+
+  <events name="Super_button_152events"
+    onTourStart="showSuper_button_152();"
+    hidetourcontrols="hideSuper_button_152();"
+    showtourcontrols="showSuper_button_152();"
+
+    keep="true" />
+
+
+<action name="hideSuper_button_152">
+
+set(layer[Super_button_152sbutton].alpha, 0);
+
+</action>
+
+  <action name="showSuper_button_152">
+    if(copy_sb17, set(display_Super_button_152, false);
+    if(tour_displaycontrols,
+
+    set(display_Super_button_152, true);
+    );
+    if (display_Super_button_152,
+
+       set(layer[Super_button_152sbutton].alpha, 1);
+    ,
+      hideSuper_button_152();
+    ); 
+);
+  </action>
+
+
+
+
+
+
+
+
+
+<!-- ********** -->
+<!-- 전시소개 -->
+<!-- id : Super_button_153 -->
+<!-- ********** -->
+<!-- Super Button v 1.7 Copyright Chiocchetti Maurizio Panotourplugin.com - 2020 -->
+
+
+
+<action name="Super_button_153swap" >
+           set(layer[Super_button_153sbutton].url, '%FIRSTXML%/graphics/superbutton.1.73/_498844954844060_fixed_2.png');
+</action>
+
+<include url="%FIRSTXML%/graphics/superbutton.1.73/core_superbutton.xml" />
+
+<events name="Super_button_153stascale"
+keep="true"
+onresize="Super_button_153respo();"
+/>
+
+<events name="Super_button_153sta"
+keep="true"
+onxmlcomplete="stst();"
+/>
+
+<action name="stst">
+if(get(copy_sb17),
+,
+showlog();
+trace('SUPERBUTTON PLUGIN - ALERT : Please activate the checkbox in at least one of the Superbotton plugins installed (the last option of the plugin setting)' );
+);
+
+  </action>
+
+
+
+<action name="Super_button_153respo">
+
+    <!--set(Super_button_153stageSize, stagewidth);
+    set(Super_button_153myscale, calc(stagewidth / 1000));
+    clamp(Super_button_153myscale, 0.4,1);
+    set(layer[Super_button_153sbutton].scale, get(Super_button_153myscale));-->
+  </action>
+
+
+
+<action name="Super_button_153swap_back" >
+
+           set(layer[Super_button_153sbutton].url, '%FIRSTXML%/graphics/superbutton.1.73/_498844954844060_fixed.png');
+
+</action>
+
+
+
+  <layer name="Super_button_153sbutton"
+         keep="true"
+         url="%FIRSTXML%/graphics/superbutton.1.73/_498844954844060_fixed.png"
+          devices="desktop|tablet|mobile"
+          tag=""
+
+         align.tablet="bottom"
+         x.tablet="-135"
+         y.tablet="15"
+
+          align.mobile="bottom"
+          x.mobile="-135"
+          y.mobile="15"
+
+         align.desktop="bottomright"
+         x.desktop="360"
+         y.desktop="20"
+
+
+         zorder="5"
+         visible="false"
+         autoalpha="true"
+
+
+         alpha="0"
+
+
+         enabled="true"
+         onloaded=""
+         onhover=""
+
+
+
+        tooltip="Super_button_153tooltip"
+         onclick="Super_button_153actions_onclick();"
+          onout="Super_button_153onout();Super_button_153swap_back();hideTooltip();"
+          onover="Super_button_153onover();Super_button_153swap();"
+
+         onup="Super_button_153onup();"
+         ondown="Super_button_153ondown();"
+
+         handcursor="true"
+
+
+
+         height="66"
+         width="150"
+
+
+         height.mobile="35"
+         width.mobile="80"
+
+         height.tablet="35"
+         width.tablet="80"
+
+         />
+
+
+<action name="Super_button_153OnClick">
+  if (Super_button_153state,
+    set(Super_button_153state, false);
+
+        set(layer[Super_button_153sbutton].url, '%FIRSTXML%/graphics/superbutton.1.73/_498844954844060_fixed.png');
+        
+             set(layer[Super_button_153sbutton].tooltip, Super_button_153tooltip);
+   ,
+    set(Super_button_153state, true);
+
+
+     set(layer[Super_button_153sbutton].url, '%FIRSTXML%/graphics/superbutton.1.73/_498844954844060_fixed_2.png');
+     Super_button_153actions_onclick();
+          set(layer[Super_button_153sbutton].tooltip, Super_button_153tooltipalt);
+  );
+</action>
+
+
+  <action name="Super_button_153actions_onclick">getmessage(urltoopen,Super_button_153onclick104705openurlwebsiteurl);openurl(get(urltoopen),_self);
+
+
+  </action>
+
+
+
+
+<action name="Super_button_153onover">
+
+tween(layer[Super_button_153sbutton].scale,1,0.5);
+
+
+  </action>
+
+
+<action name="Super_button_153onout">
+  tween(layer[Super_button_153sbutton].scale,1,0.5);
+
+  </action>
+
+
+<action name="Super_button_153ondown">
+
+  </action>
+
+
+<action name="Super_button_153onup">
+
+  </action>
+
+  <events name="Super_button_153events"
+    onTourStart="showSuper_button_153();"
+    hidetourcontrols="hideSuper_button_153();"
+    showtourcontrols="showSuper_button_153();"
+
+    keep="true" />
+
+
+<action name="hideSuper_button_153">
+
+set(layer[Super_button_153sbutton].alpha, 0);
+
+</action>
+
+  <action name="showSuper_button_153">
+    if(copy_sb17, set(display_Super_button_153, false);
+    if(tour_displaycontrols,
+
+    set(display_Super_button_153, true);
+    );
+    if (display_Super_button_153,
+
+       set(layer[Super_button_153sbutton].alpha, 1);
+    ,
+      hideSuper_button_153();
+    ); 
+);
+  </action>
+
+
+
+
+
+
+
+
+ <!-- ********** --> <!-- 360Images CoOL Hotspots Plugin --> <!-- CoOL Hotspots1 --> <!-- id : cool_hotspot --> <!-- ********** -->        <include url="%FIRSTXML%/graphics/coolhotspots.xml"/>        <style 	cooltype="customicon"  	name="Default Point Spot Style1" 	type="container"  	width="1"  	height="50"  	bgcolor="0xffffff" 	bgalpha="1.00"  	bgcapture="true"  	accuracy="1"  	edge="bottom"  	ttalign="top" 	ttedge="bottom" 	 	onover="hidebbhs();set(zorder,20); 	"  	  	onout="set(zorder,2); 	 	"  	ondown.touch="onover();" 	 	onloaded=" 	txtadd(hotspot[get(name)].permanentTooltipForSpot, get(tooltip), '_permanent'); 	delayedcall(0.1, 	if(layer[get(permanentTooltipForSpot)].html, 		set(layer[get(permanentTooltipForSpot)].ox,0); 		set(layer[get(permanentTooltipForSpot)].oy,calc(-10 - 50)); 		); 	); 	 	txtadd(mybubble,'bubble',get(name)); 	addlayer(get(mybubble)); 	copy(hotspot[get(name)].mybubble,mybubble); 	layer[get(mybubble)].loadstyle(cool_hotspotcustomicon); 	txtadd(parentlayer,'hotspot[',get(name),']'); 	copy(layer[get(mybubble)].parent,parentlayer); 	 	txtadd(clickaction,'callwith(hotspot[',get(name),'],onclick)'); 	copy(layer[get(mybubble)].onclick,clickaction); 	 	  " /> <style  	name="cool_hotspotcustomicon"  	           url="%FIRSTXML%/graphics/360imageshotspots/_3.png"                    height="40"          width="40"            	align="top" 	edge="bottom"  	 	ondown.touch="callwith(get(parent),onover);" 	 /> <style  	name="cool_hotspotcustomicon_onover"  	           url="%FIRSTXML%/graphics/360imageshotspots/"                    height="40"          width="40"            	align="top" 	edge="bottom"  	alpha="0" 	enabled="false" />   <!-- ********** --> <!-- 360Images CoOL Hotspots Plugin --> <!-- CoOL Hotspots2 --> <!-- id : cool_hotspot1 --> <!-- ********** -->            <style 	cooltype="customicon"  	name="Default Point Spot Style2" 	type="container"  	width="1"  	height="80"  	bgcolor="0xffffff" 	bgalpha="1.00"  	bgcapture="true"  	accuracy="1"  	edge="bottom"  	ttalign="top" 	ttedge="bottom" 	 	onover="hidebbhs();set(zorder,20); 	"  	  	onout="set(zorder,2); 	 	"  	ondown.touch="onover();" 	 	onloaded=" 	txtadd(hotspot[get(name)].permanentTooltipForSpot, get(tooltip), '_permanent'); 	delayedcall(0.1, 	if(layer[get(permanentTooltipForSpot)].html, 		set(layer[get(permanentTooltipForSpot)].ox,0); 		set(layer[get(permanentTooltipForSpot)].oy,calc(-10 - 50)); 		); 	); 	 	txtadd(mybubble,'bubble',get(name)); 	addlayer(get(mybubble)); 	copy(hotspot[get(name)].mybubble,mybubble); 	layer[get(mybubble)].loadstyle(cool_hotspot1customicon); 	txtadd(parentlayer,'hotspot[',get(name),']'); 	copy(layer[get(mybubble)].parent,parentlayer); 	 	txtadd(clickaction,'callwith(hotspot[',get(name),'],onclick)'); 	copy(layer[get(mybubble)].onclick,clickaction); 	 	  " /> <style  	name="cool_hotspot1customicon"  	           url="%FIRSTXML%/graphics/360imageshotspots1/_11.png"                    height="40"          width="40"            	align="top" 	edge="bottom"  	 	ondown.touch="callwith(get(parent),onover);" 	 /> <style  	name="cool_hotspot1customicon_onover"  	           url="%FIRSTXML%/graphics/360imageshotspots1/"                    height="40"          width="40"            	align="top" 	edge="bottom"  	alpha="0" 	enabled="false" />   <!-- ********** --> <!-- 360Images CoOL Hotspots Plugin --> <!-- CoOL Hotspots3 --> <!-- id : cool_hotspot2 --> <!-- ********** -->            <style 	cooltype="customicon"  	name="Default Point Spot Style3" 	type="container"  	width="1"  	height="40"  	bgcolor="0xffffff" 	bgalpha="1.00"  	bgcapture="true"  	accuracy="1"  	edge="bottom"  	ttalign="top" 	ttedge="bottom" 	 	onover="hidebbhs();set(zorder,20); 	"  	  	onout="set(zorder,2); 	 	"  	ondown.touch="onover();" 	 	onloaded=" 	txtadd(hotspot[get(name)].permanentTooltipForSpot, get(tooltip), '_permanent'); 	delayedcall(0.1, 	if(layer[get(permanentTooltipForSpot)].html, 		set(layer[get(permanentTooltipForSpot)].ox,0); 		set(layer[get(permanentTooltipForSpot)].oy,calc(-10 - 50)); 		); 	); 	 	txtadd(mybubble,'bubble',get(name)); 	addlayer(get(mybubble)); 	copy(hotspot[get(name)].mybubble,mybubble); 	layer[get(mybubble)].loadstyle(cool_hotspot2customicon); 	txtadd(parentlayer,'hotspot[',get(name),']'); 	copy(layer[get(mybubble)].parent,parentlayer); 	 	txtadd(clickaction,'callwith(hotspot[',get(name),'],onclick)'); 	copy(layer[get(mybubble)].onclick,clickaction); 	 	  " /> <style  	name="cool_hotspot2customicon"  	           url="%FIRSTXML%/graphics/360imageshotspots2/_10.png"                    height="40"          width="40"            	align="top" 	edge="bottom"  	 	ondown.touch="callwith(get(parent),onover);" 	 /> <style  	name="cool_hotspot2customicon_onover"  	           url="%FIRSTXML%/graphics/360imageshotspots2/"                    height="40"          width="40"            	align="top" 	edge="bottom"  	alpha="0" 	enabled="false" />   <!-- ********** --> <!-- 360Images CoOL Hotspots Plugin --> <!-- CoOL Hotspots4 --> <!-- id : cool_hotspot3 --> <!-- ********** -->            <style 	cooltype="customicon"  	name="Default Point Spot Style4" 	type="container"  	width="1"  	height="50"  	bgcolor="0xffffff" 	bgalpha="1.00"  	bgcapture="true"  	accuracy="1"  	edge="bottom"  	ttalign="top" 	ttedge="bottom" 	 	onover="hidebbhs();set(zorder,20); 	"  	  	onout="set(zorder,2); 	 	"  	ondown.touch="onover();" 	 	onloaded=" 	txtadd(hotspot[get(name)].permanentTooltipForSpot, get(tooltip), '_permanent'); 	delayedcall(0.1, 	if(layer[get(permanentTooltipForSpot)].html, 		set(layer[get(permanentTooltipForSpot)].ox,0); 		set(layer[get(permanentTooltipForSpot)].oy,calc(-10 - 50)); 		); 	); 	 	txtadd(mybubble,'bubble',get(name)); 	addlayer(get(mybubble)); 	copy(hotspot[get(name)].mybubble,mybubble); 	layer[get(mybubble)].loadstyle(cool_hotspot3customicon); 	txtadd(parentlayer,'hotspot[',get(name),']'); 	copy(layer[get(mybubble)].parent,parentlayer); 	 	txtadd(clickaction,'callwith(hotspot[',get(name),'],onclick)'); 	copy(layer[get(mybubble)].onclick,clickaction); 	 	  " /> <style  	name="cool_hotspot3customicon"  	           url="%FIRSTXML%/graphics/360imageshotspots3/_2.png"                    height="40"          width="40"            	align="top" 	edge="bottom"  	 	ondown.touch="callwith(get(parent),onover);" 	 /> <style  	name="cool_hotspot3customicon_onover"  	           url="%FIRSTXML%/graphics/360imageshotspots3/"                    height="40"          width="40"            	align="top" 	edge="bottom"  	alpha="0" 	enabled="false" />   <!-- ********** --> <!-- 360Images CoOL Hotspots Plugin --> <!-- CoOL Hotspots5 --> <!-- id : cool_hotspot4 --> <!-- ********** -->            <style 	cooltype="customicon"  	name="Default Point Spot Style5" 	type="container"  	width="1"  	height="50"  	bgcolor="0xffffff" 	bgalpha="1.00"  	bgcapture="true"  	accuracy="1"  	edge="bottom"  	ttalign="top" 	ttedge="bottom" 	 	onover="hidebbhs();set(zorder,20); 	"  	  	onout="set(zorder,2); 	 	"  	ondown.touch="onover();" 	 	onloaded=" 	txtadd(hotspot[get(name)].permanentTooltipForSpot, get(tooltip), '_permanent'); 	delayedcall(0.1, 	if(layer[get(permanentTooltipForSpot)].html, 		set(layer[get(permanentTooltipForSpot)].ox,0); 		set(layer[get(permanentTooltipForSpot)].oy,calc(-10 - 50)); 		); 	); 	 	txtadd(mybubble,'bubble',get(name)); 	addlayer(get(mybubble)); 	copy(hotspot[get(name)].mybubble,mybubble); 	layer[get(mybubble)].loadstyle(cool_hotspot4customicon); 	txtadd(parentlayer,'hotspot[',get(name),']'); 	copy(layer[get(mybubble)].parent,parentlayer); 	 	txtadd(clickaction,'callwith(hotspot[',get(name),'],onclick)'); 	copy(layer[get(mybubble)].onclick,clickaction); 	 	  " /> <style  	name="cool_hotspot4customicon"  	           url="%FIRSTXML%/graphics/360imageshotspots4/_7.png"                    height="40"          width="40"            	align="top" 	edge="bottom"  	 	ondown.touch="callwith(get(parent),onover);" 	 /> <style  	name="cool_hotspot4customicon_onover"  	           url="%FIRSTXML%/graphics/360imageshotspots4/"                    height="40"          width="40"            	align="top" 	edge="bottom"  	alpha="0" 	enabled="false" />   <!-- ********** --> <!-- 360Images CoOL Hotspots Plugin --> <!-- CoOL Hotspots6 --> <!-- id : cool_hotspot5 --> <!-- ********** -->            <style 	cooltype="customicon"  	name="Default Point Spot Style6" 	type="container"  	width="1"  	height="50"  	bgcolor="0xffffff" 	bgalpha="1.00"  	bgcapture="true"  	accuracy="1"  	edge="bottom"  	ttalign="top" 	ttedge="bottom" 	 	onover="hidebbhs();set(zorder,20); 	"  	  	onout="set(zorder,2); 	 	"  	ondown.touch="onover();" 	 	onloaded=" 	txtadd(hotspot[get(name)].permanentTooltipForSpot, get(tooltip), '_permanent'); 	delayedcall(0.1, 	if(layer[get(permanentTooltipForSpot)].html, 		set(layer[get(permanentTooltipForSpot)].ox,0); 		set(layer[get(permanentTooltipForSpot)].oy,calc(-10 - 50)); 		); 	); 	 	txtadd(mybubble,'bubble',get(name)); 	addlayer(get(mybubble)); 	copy(hotspot[get(name)].mybubble,mybubble); 	layer[get(mybubble)].loadstyle(cool_hotspot5customicon); 	txtadd(parentlayer,'hotspot[',get(name),']'); 	copy(layer[get(mybubble)].parent,parentlayer); 	 	txtadd(clickaction,'callwith(hotspot[',get(name),'],onclick)'); 	copy(layer[get(mybubble)].onclick,clickaction); 	 	  " /> <style  	name="cool_hotspot5customicon"  	           url="%FIRSTXML%/graphics/360imageshotspots5/_1.png"                    height="40"          width="40"            	align="top" 	edge="bottom"  	 	ondown.touch="callwith(get(parent),onover);" 	 /> <style  	name="cool_hotspot5customicon_onover"  	           url="%FIRSTXML%/graphics/360imageshotspots5/"                    height="40"          width="40"            	align="top" 	edge="bottom"  	alpha="0" 	enabled="false" />   <!-- ********** --> <!-- 360Images CoOL Hotspots Plugin --> <!-- CoOL Hotspots7 --> <!-- id : cool_hotspot6 --> <!-- ********** -->            <style 	cooltype="customicon"  	name="Default Point Spot Style7" 	type="container"  	width="1"  	height="50"  	bgcolor="0xffffff" 	bgalpha="1.00"  	bgcapture="true"  	accuracy="1"  	edge="bottom"  	ttalign="top" 	ttedge="bottom" 	 	onover="hidebbhs();set(zorder,20); 	"  	  	onout="set(zorder,2); 	 	"  	ondown.touch="onover();" 	 	onloaded=" 	txtadd(hotspot[get(name)].permanentTooltipForSpot, get(tooltip), '_permanent'); 	delayedcall(0.1, 	if(layer[get(permanentTooltipForSpot)].html, 		set(layer[get(permanentTooltipForSpot)].ox,0); 		set(layer[get(permanentTooltipForSpot)].oy,calc(-10 - 50)); 		); 	); 	 	txtadd(mybubble,'bubble',get(name)); 	addlayer(get(mybubble)); 	copy(hotspot[get(name)].mybubble,mybubble); 	layer[get(mybubble)].loadstyle(cool_hotspot6customicon); 	txtadd(parentlayer,'hotspot[',get(name),']'); 	copy(layer[get(mybubble)].parent,parentlayer); 	 	txtadd(clickaction,'callwith(hotspot[',get(name),'],onclick)'); 	copy(layer[get(mybubble)].onclick,clickaction); 	 	  " /> <style  	name="cool_hotspot6customicon"  	           url="%FIRSTXML%/graphics/360imageshotspots6/_5.png"                    height="40"          width="40"            	align="top" 	edge="bottom"  	 	ondown.touch="callwith(get(parent),onover);" 	 /> <style  	name="cool_hotspot6customicon_onover"  	           url="%FIRSTXML%/graphics/360imageshotspots6/"                    height="40"          width="40"            	align="top" 	edge="bottom"  	alpha="0" 	enabled="false" />   <!-- ********** --> <!-- 360Images CoOL Hotspots Plugin --> <!-- CoOL Hotspots8 --> <!-- id : cool_hotspot7 --> <!-- ********** -->            <style 	cooltype="customicon"  	name="Default Point Spot Style8" 	type="container"  	width="1"  	height="50"  	bgcolor="0xffffff" 	bgalpha="1.00"  	bgcapture="true"  	accuracy="1"  	edge="bottom"  	ttalign="top" 	ttedge="bottom" 	 	onover="hidebbhs();set(zorder,20); 	"  	  	onout="set(zorder,2); 	 	"  	ondown.touch="onover();" 	 	onloaded=" 	txtadd(hotspot[get(name)].permanentTooltipForSpot, get(tooltip), '_permanent'); 	delayedcall(0.1, 	if(layer[get(permanentTooltipForSpot)].html, 		set(layer[get(permanentTooltipForSpot)].ox,0); 		set(layer[get(permanentTooltipForSpot)].oy,calc(-10 - 50)); 		); 	); 	 	txtadd(mybubble,'bubble',get(name)); 	addlayer(get(mybubble)); 	copy(hotspot[get(name)].mybubble,mybubble); 	layer[get(mybubble)].loadstyle(cool_hotspot7customicon); 	txtadd(parentlayer,'hotspot[',get(name),']'); 	copy(layer[get(mybubble)].parent,parentlayer); 	 	txtadd(clickaction,'callwith(hotspot[',get(name),'],onclick)'); 	copy(layer[get(mybubble)].onclick,clickaction); 	 	  " /> <style  	name="cool_hotspot7customicon"  	           url="%FIRSTXML%/graphics/360imageshotspots7/_6.png"                    height="40"          width="40"            	align="top" 	edge="bottom"  	 	ondown.touch="callwith(get(parent),onover);" 	 /> <style  	name="cool_hotspot7customicon_onover"  	           url="%FIRSTXML%/graphics/360imageshotspots7/"                    height="40"          width="40"            	align="top" 	edge="bottom"  	alpha="0" 	enabled="false" />   <!-- ********** --> <!-- 360Images CoOL Hotspots Plugin --> <!-- CoOL Hotspots9 --> <!-- id : cool_hotspot8 --> <!-- ********** -->            <style 	cooltype="customicon"  	name="Default Point Spot Style9" 	type="container"  	width="1"  	height="80"  	bgcolor="0xffffff" 	bgalpha="1.00"  	bgcapture="true"  	accuracy="1"  	edge="bottom"  	ttalign="top" 	ttedge="bottom" 	 	onover="hidebbhs();set(zorder,20); 	"  	  	onout="set(zorder,2); 	 	"  	ondown.touch="onover();" 	 	onloaded=" 	txtadd(hotspot[get(name)].permanentTooltipForSpot, get(tooltip), '_permanent'); 	delayedcall(0.1, 	if(layer[get(permanentTooltipForSpot)].html, 		set(layer[get(permanentTooltipForSpot)].ox,0); 		set(layer[get(permanentTooltipForSpot)].oy,calc(-10 - 50)); 		); 	); 	 	txtadd(mybubble,'bubble',get(name)); 	addlayer(get(mybubble)); 	copy(hotspot[get(name)].mybubble,mybubble); 	layer[get(mybubble)].loadstyle(cool_hotspot8customicon); 	txtadd(parentlayer,'hotspot[',get(name),']'); 	copy(layer[get(mybubble)].parent,parentlayer); 	 	txtadd(clickaction,'callwith(hotspot[',get(name),'],onclick)'); 	copy(layer[get(mybubble)].onclick,clickaction); 	 	  " /> <style  	name="cool_hotspot8customicon"  	           url="%FIRSTXML%/graphics/360imageshotspots8/_9.png"                    height="40"          width="40"            	align="top" 	edge="bottom"  	 	ondown.touch="callwith(get(parent),onover);" 	 /> <style  	name="cool_hotspot8customicon_onover"  	           url="%FIRSTXML%/graphics/360imageshotspots8/"                    height="40"          width="40"            	align="top" 	edge="bottom"  	alpha="0" 	enabled="false" />   <!-- ********** --> <!-- 360Images CoOL Hotspots Plugin --> <!-- CoOL Hotspots10 --> <!-- id : cool_hotspot9 --> <!-- ********** -->            <style 	cooltype="customicon"  	name="Default Point Spot Style10" 	type="container"  	width="1"  	height="50"  	bgcolor="0xffffff" 	bgalpha="1.00"  	bgcapture="true"  	accuracy="1"  	edge="bottom"  	ttalign="top" 	ttedge="bottom" 	 	onover="hidebbhs();set(zorder,20); 	"  	  	onout="set(zorder,2); 	 	"  	ondown.touch="onover();" 	 	onloaded=" 	txtadd(hotspot[get(name)].permanentTooltipForSpot, get(tooltip), '_permanent'); 	delayedcall(0.1, 	if(layer[get(permanentTooltipForSpot)].html, 		set(layer[get(permanentTooltipForSpot)].ox,0); 		set(layer[get(permanentTooltipForSpot)].oy,calc(-10 - 50)); 		); 	); 	 	txtadd(mybubble,'bubble',get(name)); 	addlayer(get(mybubble)); 	copy(hotspot[get(name)].mybubble,mybubble); 	layer[get(mybubble)].loadstyle(cool_hotspot9customicon); 	txtadd(parentlayer,'hotspot[',get(name),']'); 	copy(layer[get(mybubble)].parent,parentlayer); 	 	txtadd(clickaction,'callwith(hotspot[',get(name),'],onclick)'); 	copy(layer[get(mybubble)].onclick,clickaction); 	 	  " /> <style  	name="cool_hotspot9customicon"  	           url="%FIRSTXML%/graphics/360imageshotspots9/_4.png"                    height="40"          width="40"            	align="top" 	edge="bottom"  	 	ondown.touch="callwith(get(parent),onover);" 	 /> <style  	name="cool_hotspot9customicon_onover"  	           url="%FIRSTXML%/graphics/360imageshotspots9/"                    height="40"          width="40"            	align="top" 	edge="bottom"  	alpha="0" 	enabled="false" />   <!-- ********** --> <!-- 360Images CoOL Hotspots Plugin --> <!-- CoOL Hotspots11 --> <!-- id : cool_hotspot10 --> <!-- ********** -->            <style 	cooltype="customicon"  	name="Default Point Spot Style11" 	type="container"  	width="1"  	height="50"  	bgcolor="0xffffff" 	bgalpha="1.00"  	bgcapture="true"  	accuracy="1"  	edge="bottom"  	ttalign="top" 	ttedge="bottom" 	 	onover="hidebbhs();set(zorder,20); 	"  	  	onout="set(zorder,2); 	 	"  	ondown.touch="onover();" 	 	onloaded=" 	txtadd(hotspot[get(name)].permanentTooltipForSpot, get(tooltip), '_permanent'); 	delayedcall(0.1, 	if(layer[get(permanentTooltipForSpot)].html, 		set(layer[get(permanentTooltipForSpot)].ox,0); 		set(layer[get(permanentTooltipForSpot)].oy,calc(-10 - 50)); 		); 	); 	 	txtadd(mybubble,'bubble',get(name)); 	addlayer(get(mybubble)); 	copy(hotspot[get(name)].mybubble,mybubble); 	layer[get(mybubble)].loadstyle(cool_hotspot10customicon); 	txtadd(parentlayer,'hotspot[',get(name),']'); 	copy(layer[get(mybubble)].parent,parentlayer); 	 	txtadd(clickaction,'callwith(hotspot[',get(name),'],onclick)'); 	copy(layer[get(mybubble)].onclick,clickaction); 	 	  " /> <style  	name="cool_hotspot10customicon"  	           url="%FIRSTXML%/graphics/360imageshotspots10/_8.png"                    height="40"          width="40"            	align="top" 	edge="bottom"  	 	ondown.touch="callwith(get(parent),onover);" 	 /> <style  	name="cool_hotspot10customicon_onover"  	           url="%FIRSTXML%/graphics/360imageshotspots10/"                    height="40"          width="40"            	align="top" 	edge="bottom"  	alpha="0" 	enabled="false" />   <!-- ********** --> <!-- 360Images CoOL Hotspots Plugin --> <!-- CoOL Hotspots12 --> <!-- id : cool_hotspot11 --> <!-- ********** -->            <style 	cooltype="customicon"  	name="Default Point Spot Style12" 	type="container"  	width="1"  	height="80"  	bgcolor="0xffffff" 	bgalpha="1.00"  	bgcapture="true"  	accuracy="1"  	edge="bottom"  	ttalign="top" 	ttedge="bottom" 	 	onover="hidebbhs();set(zorder,20); 	"  	  	onout="set(zorder,2); 	 	"  	ondown.touch="onover();" 	 	onloaded=" 	txtadd(hotspot[get(name)].permanentTooltipForSpot, get(tooltip), '_permanent'); 	delayedcall(0.1, 	if(layer[get(permanentTooltipForSpot)].html, 		set(layer[get(permanentTooltipForSpot)].ox,0); 		set(layer[get(permanentTooltipForSpot)].oy,calc(-10 - 50)); 		); 	); 	 	txtadd(mybubble,'bubble',get(name)); 	addlayer(get(mybubble)); 	copy(hotspot[get(name)].mybubble,mybubble); 	layer[get(mybubble)].loadstyle(cool_hotspot11customicon); 	txtadd(parentlayer,'hotspot[',get(name),']'); 	copy(layer[get(mybubble)].parent,parentlayer); 	 	txtadd(clickaction,'callwith(hotspot[',get(name),'],onclick)'); 	copy(layer[get(mybubble)].onclick,clickaction); 	 	  " /> <style  	name="cool_hotspot11customicon"  	           url="%FIRSTXML%/graphics/360imageshotspots11/_12.png"                    height="40"          width="40"            	align="top" 	edge="bottom"  	 	ondown.touch="callwith(get(parent),onover);" 	 /> <style  	name="cool_hotspot11customicon_onover"  	           url="%FIRSTXML%/graphics/360imageshotspots11/"                    height="40"          width="40"            	align="top" 	edge="bottom"  	alpha="0" 	enabled="false" />  
+<!-- ********** -->
+<!-- Super Text -->
+<!-- id : SuperText -->
+<!-- Copyright by Chiocchetti Maurizio Panotourplugin.com - 2019 -->
+<!-- ********** -->
+
+
+<ptplugin name="SuperText" canStart="false" newPano="false" openatstart="true" mode="project" startMethod="showDescription_SuperText" engine="kolorArea">
+	<settings>
+		<option name="position" value="bottomleft" type="string" />
+		<option name="start_position" value="left" type="string" />
+		<option name="margin_x" value="2" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="background_color" value="ffffff" type="string" />
+		<option name="background_alpha" value="0" type="float" />
+		<option name="topleft_radius" value="0" type="int" />
+		<option name="topright_radius" value="0" type="int" />
+		<option name="bottomleft_radius" value="0" type="int" />
+		<option name="bottomright_radius" value="0" type="int" />
+		<option name="area_border_width" value="0" type="int" />
+		<option name="area_border_color" value="f2f2f2" type="string" />
+		<option name="area_border_alpha" value="0" type="float" />
+		<option name="padding" value="0" type="int" />
+		<option name="display_title" value="false" type="bool" />
+		<option name="close_displayed" value="false" type="bool" />
+		<option name="close_text" value="SuperTextdisplay_close_text" type="string" />
+
+		<option name="overlay_displayed" value="false" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+
+		<option name="area_width" value="25" type="int" devices="mobile"/>
+		<option name="area_height" value="25" type="int" devices="mobile"/>
+
+		<option name="area_width" value="25" type="int" devices="tablet"/>
+		<option name="area_height" value="25" type="int" devices="tablet"/>
+
+		<option name="area_width" value="100" type="int" devices="desktop"/>
+		<option name="area_height" value="15" type="int" devices="desktop"/>
+
+		<option name="area_width_unit" value="percent" type="string" devices="desktop"/>
+		<option name="area_height_unit" value="pixel" type="string" devices="desktop"/>
+		<option name="area_width_unit" value="percent" type="string" devices="mobile"/>
+		<option name="area_height_unit" value="percent" type="string" devices="mobile"/>
+		<option name="area_width_unit" value="percent" type="string" devices="tablet"/>
+		<option name="area_height_unit" value="percent" type="string" devices="tablet"/>
+
+		<option name="animation" value="false" type="bool" />
+		<option name="animation_duration" value="500" type="int" />
+		<option name="refresh_content" value="true" type="bool" />
+		<option name="close_callback" value="invokeKrFunction('closeKolorAreaCallback_SuperText')" type="string" />
+		<option name="close_on_click" value="false" type="bool" />
+		<option name="zorder" value="1" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+</ptplugin>
+
+<action name="kolorAreaJsReady_SuperText">
+	set(ptplugin[SuperText].jsready, true);
+
+</action>
+
+<action name="SuperTextinit"  type="Javascript" devices="desktop">
+<![CDATA[
+$(document).ready(function(){
+
+
+
+var SuperTexts1 = document.createElement("script");
+SuperTexts1.type = "text/javascript";
+SuperTexts1.src = "vrdata/graphics/supertext/perfect-scrollbar.min.js";
+$("head").append(SuperTexts1);
+
+var SuperTexts99 = document.createElement("link");
+SuperTexts99.type = "text/css";
+SuperTexts99.rel = 'stylesheet';
+SuperTexts99.href = "vrdata/graphics/supertext/perfect-scrollbar.css";
+$("head").append(SuperTexts99);
+
+
+});
+]]>
+</action>
+
+
+
+
+
+
+<action name="openKolorArea_SuperText">
+	ifnot(ptplugin[SuperText].isOpen,
+		set(ptplugin[SuperText].isOpen, true);
+		
+		js(showKolorArea(SuperText, get(ptplugin[SuperText].descID)));
+		SuperTextstart_desc();
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="closeKolorArea_SuperText">
+	if(ptplugin[SuperText].isOpen,
+		js(invokePluginFunction(SuperText, closeKolorArea));
+	);
+</action>
+
+<action name="toggleKolorArea_SuperText">
+	if(ptplugin[SuperText].isOpen,
+		closeKolorArea_SuperText();
+	,
+		openKolorArea_SuperText();
+	);
+</action>
+
+<action name="closeKolorAreaCallback_SuperText">
+	set(ptplugin[SuperText].isOpen, false);
+</action>
+
+
+
+<action name="showKolorArea_SuperText">
+	ifnot(ptplugin[SuperText].startMethod == "",
+		delayedcall(0,get(ptplugin[SuperText].startMethod));
+	,
+		set(ptplugin[SuperText].isOpen, true);
+		
+		js(invokePluginFunction(SuperText, showKolorArea, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="hideKolorArea_SuperText">
+	
+	set(ptplugin[SuperText].isOpen, false);
+	js(invokePluginFunction(SuperText, hideKolorArea, %1));
+</action>
+
+<action name="openDescription_SuperText">
+	openKolorArea_SuperText();
+</action>
+
+<action name="openSpotDescription_SuperText">
+	set(ptplugin[SuperText].descID, %1);
+	openKolorArea_SuperText();
+</action>
+
+<action name="closeDescription_SuperText">
+	set(ptplugin[SuperText].currentGroup, false);
+	if(%1,
+		set(restore_SuperText, true);
+	,
+		set(restore_SuperText, false);
+	);
+	closeKolorArea_SuperText();
+</action>
+
+<action name="showDescription_SuperText">
+	if(ptplugin[SuperText].canStart,
+		set(ptplugin[SuperText].descID, get(projectdescriptionid));
+		if(ptplugin[SuperText].descID != "",
+			openDescription_SuperText();
+			SuperTextstart_desc();
+		,
+			hideKolorArea_SuperText(false);
+		);
+		set(ptplugin[SuperText].startMethod, "");
+	);
+</action>
+
+
+
+<action name="changeLanguage_SuperText">
+	if(ptplugin[SuperText].jsready,
+		stopdelayedcall(delay_SuperText);
+		js(invokePluginFunction(SuperText, changeLanguage, true));
+		SuperTextstart_desc();
+	,
+		delayedcall(delay_SuperText, 0.1, changeLanguage_SuperText(););
+
+	);
+</action>
+
+<events name="kolorAreaEvents_SuperText"
+	keep="true"
+
+	devices="desktop"
+	onTourStart="set(ptplugin[SuperText].canStart, true);if(ptplugin[SuperText].openatstart,ifnot(ptplugin[SuperText].startMethod == '',delayedcall(0,get(ptplugin[SuperText].startMethod));););SuperTextinit();"
+	changetourlanguage="changeLanguage_SuperText();"
+/>
+<events name="SuperTexttextdesca"
+
+onshowtourinfo="SuperTextstart_desc();"
+showtourcontrols="SuperTextstart_desc();"
+
+keep="true"
+
+/>
+
+<action name="SuperTextstart_desc"  type="Javascript" devices="desktop">
+<![CDATA[
+
+
+
+function hexToRGBA(hex, opacity) {
+return 'rgba(' + (hex = hex.replace('#', '')).match(new RegExp('(.{' + hex.length/3 + '})', 'g')).map(function(l) { return parseInt(hex.length%2 ? l+l : l, 16) }).concat(opacity||1).join(',') + ')';}
+var bgc = hexToRGBA('ffffff', 0);
+
+var SuperTextfft = '';
+var SuperTextctrt = (SuperTextfft.match(/:/g) || []).length ;
+if (SuperTextctrt == 0) {
+var SuperTextfontfontt = SuperTextfft.replace(/\+/g, " ");
+} else {
+var SuperTextfdt = SuperTextfft.substring(0, SuperTextfft.indexOf(':'));
+
+SuperTextfontfontt = SuperTextfdt.replace(/\+/g, " ");
+}
+
+var SuperTextff = '';
+
+var SuperTextctr = (SuperTextff.match(/:/g) || []).length ;
+
+if (SuperTextctr == 0) {
+var SuperTextfontfont = SuperTextff.replace(/\+/g, " ");
+
+} else {
+
+var SuperTextfd = SuperTextff.substring(0, SuperTextff.indexOf(':'));
+
+SuperTextfontfont = SuperTextfd.replace(/\+/g, " ");
+
+
+
+}
+
+var checkExist = setInterval(function() {
+   if ($('#SuperText .kolorAreaContent').length) {
+
+new PerfectScrollbar('#SuperText .kolorArea .kolorAreaContent');
+
+$('#SuperText .kolorAreaContent')
+.css('font-family',''+ SuperTextfontfont +', sans-serif')
+
+.css('color','#00ff00')
+
+
+
+.css('word-wrap','break-word')
+.css('line-height','1')
+.css('font-size','calc(5px + 0.5vw)')
+.css('text-align','left')
+.css('z-index','5')
+
+
+.css('font-weight','normal')
+.css('overflow','auto');
+
+$('#SuperText .ps__thumb-x').css('background-color','#1b1b1b');
+$('#SuperText .ps__thumb-y').css('background-color','#1b1b1b');
+$('#SuperText .kolorAreaContent img').css('max-width','100%')
+$('#SuperText .kolorAreaContent img').css('height','auto')
+
+$('#SuperText .kolorAreaTitle')
+.css('font-family',''+ SuperTextfontfontt +'')
+
+
+.css('color','#ffffff')
+.css('text-align','left')
+.css('margin-left','0px')
+.css('font-weight','normal')
+.css('text-transform','none')
+.css('font-size','calc(14px + 0.8vw)');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clearInterval(checkExist);
+
+}
+}, 100);
+
+
+
+
+
+
+
+
+
+]]>
+</action>
+
+
+</krpano>
